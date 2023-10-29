@@ -13,7 +13,7 @@ navItems.forEach(item => {
         }
 
         // Set the background color and text color of the clicked tab
-        item.style.backgroundColor = 'rgb(157, 37, 37)';
+        item.style.backgroundColor = '#fe451b';
         item.style.color = 'white';
 
         // Hide all tab content
