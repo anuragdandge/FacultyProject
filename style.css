@@ -95,11 +95,12 @@ nav>ul>li:hover {
 }
 
 .details {
-    height: 75%;
+    height: 80%;
     flex: 6;
     background-color: white;
     border-radius: 20px;
     /* padding: 50px; */
+    overflow: scroll;
 }
 .details > div >  h3 {
     color: #fe451b;
