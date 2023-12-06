@@ -45,7 +45,9 @@ nav {
     border-radius: 20px;
     background-color: white;
 }
-
+h1{
+    color: #fe451b;
+}
 #profile_pic {
     height: 65%;
     width: 100%;
@@ -115,7 +117,17 @@ nav>ul>li:hover {
     margin: 20px;
 }
 
+.achieUl{
+    list-style-type: disc;
+      margin-left: 20px;
+      line-height: 1.6;
+}
 
+.actiUl{
+    list-style-type: disc;
+      margin-left: 20px;
+      line-height: 1.6;
+}
 
 .custom-cursor {
     position: absolute;
